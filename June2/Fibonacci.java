@@ -17,6 +17,6 @@ public class Fibonacci {
 	public static void main(String a[]) {
 		Scanner sc = new Scanner(System.in);
 		int number = sc.nextInt();
-		System.out.println("Fibonacci is: "+ getFibonacciOf(number));
+		System.out.println("Fibonacci of the number is: "+ getFibonacciOf(number));
 	}
 }
